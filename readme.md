@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://cameras-beta.vercel.app/
+[Cameras](https://cameras-beta.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
